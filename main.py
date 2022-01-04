@@ -1,0 +1,1 @@
+#Program konsolowy Szyfr - odgadnij tajny szyfr na podstawie wskazówek
